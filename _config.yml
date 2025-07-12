@@ -1,0 +1,10 @@
+title: Overseas Funeral Guide
+description: A practical guide for handling post-death affairs abroad.
+theme: just-the-docs
+
+# Navigation structure
+just_the_docs:
+  logo: false
+  search_enabled: true
+  aux_links:
+    GitHub Repo: https://github.com/sliuxl/OverseasFuneralGuide
