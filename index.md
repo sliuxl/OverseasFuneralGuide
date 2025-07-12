@@ -16,6 +16,7 @@ This is a **practical** guide to assist family members, friends, alumni, etc nav
 
 ## Sections / 内容目录
 
+- [01：亲友还在中国境内](docs/01-china-to-us.md)
 - [Emergency Response 紧急应对流程](docs/emergency.md)
 - [Key Contacts 各方联络建议](docs/contacts.md)
 - [Documents 所需文件说明](docs/documents.md)
