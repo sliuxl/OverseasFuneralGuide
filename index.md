@@ -7,7 +7,7 @@
 
 First of all,
 I'm really sorry,
-if you have to refer to this guide for the loss of a family memebr, friend, etc.
+if you have to refer to this guide for the loss of a family member, friend, etc.
 
 This is a **practical** guide to assist family members, friends, alumni, etc navigating the aftermath of a death abroad.
 
@@ -16,7 +16,8 @@ This is a **practical** guide to assist family members, friends, alumni, etc nav
 
 ## Sections / 内容目录
 
-- [01：亲友还在中国境内](docs/01-china-to-us.md)
+- [00: 人员失联](docs/00-unreachable-contact.md)
+- [01: 亲友赴美](docs/01-china-to-us.md)
 - [Emergency Response 紧急应对流程](docs/emergency.md)
 - [Key Contacts 各方联络建议](docs/contacts.md)
 - [Documents 所需文件说明](docs/documents.md)
