@@ -3,6 +3,7 @@
 
 本项目源于美国境内几段沉重而真实的经历。
 希望为海外奔丧、协助亲友处理后事的人，提供一份务实的流程指引与支持，减少不确定性，助力顺利度过艰难时光。
+- https://sliuxl.github.io/OverseasFuneralGuide
 
 
 This project is inspired by several real and difficult experiences in the United States.
