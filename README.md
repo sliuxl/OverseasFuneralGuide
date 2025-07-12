@@ -11,3 +11,8 @@ It aims to offer practical guidance and support for those handling post-death af
 In moments of loss and uncertainty,
 we hope this guide provides clear direction and comforting assistance,
 helping to reduce confusion and navigate challenging times.
+
+
+**备注**：
+本文基于多段真实经历综合整理，内容不代表任何个体、组织或具体事件，旨在为面临类似困境的人群提供清晰、实用的流程指引。
+- 若因共情而触发回忆，请充分原谅并理解本项目的初衷是希望少一些无助、多一些指引。
