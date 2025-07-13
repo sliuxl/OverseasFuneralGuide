@@ -17,6 +17,7 @@
 | 骨灰盒           | Urn                               |          |
 | 棺材             | Casket                            |          |
 | **H**||
+| 海牙认证         | Apostille Certificate             | 死亡证明中文翻译，用于回国注销身份等 |
 | 火化             | Cremation, to be cremated         |          |
 | 火化证明         | Certificate of Cremation          | 携带骨灰出境需要 |
 | 海关             | Customs                           | 入境时需出示说明材料 |

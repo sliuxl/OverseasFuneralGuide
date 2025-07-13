@@ -19,6 +19,7 @@ This is a **practical** guide to assist family members, friends, alumni, etc nav
 - [00: 人员失联](docs/00-unreachable-contact.md)
 - [01: 亲人赴美](docs/01-china-to-us.md)
 - [02: 殡仪馆](docs/02-funeral-home.md)
+  - 最前面两个星期 (First 2 weeks)：集中精力办葬礼
 - [Emergency Response 紧急应对流程](docs/emergency.md)
 - [Key Contacts 各方联络建议](docs/contacts.md)
 - [Documents 所需文件说明](docs/documents.md)
