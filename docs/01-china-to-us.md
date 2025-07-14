@@ -1,7 +1,3 @@
----
-title: 亲人赴美/ Coming to the US
----
-
 # 亲人赴美/ Coming to the US
 
 
@@ -59,7 +55,9 @@ title: 亲人赴美/ Coming to the US
      - Mintmobile 三个月
      - Tello 可能性价比更高
 1. 美元现金 + 中国信用卡
+1. 眼镜
+   - 亲属可能需要签署/ 核实许多文件，如果需要老花镜之类的务必随身携带，具体参见[殡仪馆](https://sliuxl.github.io/OverseasFuneralGuide/docs/02-funeral-home.html)，需要**多处**签字
 1. 如果需要安排葬礼
    - 生前各种照片
-   - 家人带上深色衣服，甚至是正装出席
+   - 家属带上深色衣服，甚至是正装出席。若有长住需要，还需要更多
 1. 当地亲友接机&安排（最开始几天）住宿
