@@ -37,6 +37,7 @@
 ## 2. 机票
 
 来程机票**时间**请大概参考签证时间线。
+- [**奔丧票价(Bereavement Fairs)**](https://travel.usnews.com/features/bereavement-flights)：网络显示加航等航空公司可能有此类特殊票价，但是折扣也不见得更多
 - 回程机票时间请参考[殡仪馆时间线](https://sliuxl.github.io/OverseasFuneralGuide/docs/02-funeral-home.html)。
 
 
