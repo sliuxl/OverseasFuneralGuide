@@ -31,11 +31,12 @@
 
 ## 2. 相关人员
 
-如果确定需要 probate，那么至少需要两个相关人员：
+如果确定需要probate，那么至少需要两个相关人员：
 
 1. 律师
    - 收费比例一般是固定的，比如加州第一个$100k收费4%，第二个$100k收费3%，然后$200k~$1M收费2%等
    - 如果按照$1M 财产计算，那么收费为$23k
+   - 加州probate律师搜索，可能**长时间未更新**：[https://apps.calbar.ca.gov/attorney/LicenseeSearch/QuickSearch](https://apps.calbar.ca.gov/attorney/LicenseeSearch/QuickSearch)
 1. 执行人 (executor)/ 管理人(administrator)：有时候也叫 personal representative，**不可以**由遗产认证律师兼任
    1. 一般由亲属（配偶，成年子女等）担任，可能需要绿卡/美国公民身份
       - 如果父母出国奔丧，那么他们可能没有资格担任遗产执行人，需要当地亲友或者外州亲友（额外花费）代为处理

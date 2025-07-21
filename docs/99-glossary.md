@@ -42,6 +42,8 @@
 | 验尸官办公室     | Coroner Office                    | 有时与 PD 合作调查 |
 | 医疗记录         | Medical Records                   | 一般需家属申请 |
 | 遗产             | Estate/ Assets                    | 包括银行账号、股票账户，401（k），不动产房产，车等 |
+| 遗产认证         | Probate                           |          |
+| 遗产执行人       | Executor                          |          |
 | 遗书             | Note/ Final Message               | 若涉及财产，可能具有法律效力 |
 | 遗物             | Personal Belongings / Items       | 包括手机、衣物等 |
 | 遗嘱             | Will                              |          |
