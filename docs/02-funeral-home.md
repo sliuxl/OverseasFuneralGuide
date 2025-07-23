@@ -68,6 +68,8 @@
 1. 火化证明
    - 带回国时候上飞机需要，上面标有骨灰去向
 1. 死亡证明：请**当场检查**有无typo，即使有也不能修改，只能额外加一页作修正（amendment），需要亲自去 health department 下单
+   1. 向社会安全局（social security administration，SSA）汇报
+      - 大多数殡仪馆负责向SSA 汇报，可以和他们口头确认：[https://www.ssa.gov/personal-record/when-someone-dies](https://www.ssa.gov/personal-record/when-someone-dies)
    1. 各种银行账户等都需要一份原件，一般十几份，二十份左右就可以了
    1. 如果不够，三个月之后可以在 county 网站下单
    1. 预留一份做海牙认证，翻译成中文带回中国使用
