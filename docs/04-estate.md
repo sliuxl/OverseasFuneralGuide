@@ -43,6 +43,13 @@
    1. 专业执行人：收费比例和律师相同
 
 
+### 2.1 民事/刑事律师
+
+如果有其他民事/刑事诉讼等要求，大概率遗产律师不负责，而需要**另请**相关律师。比如：
+
+- probate 律师不负责寻找可能被警方带走的任何电子设备等。
+
+
 ## 3. 处理过程
 
 请提前准备好：
@@ -54,8 +61,8 @@
    1. **需要**继承人在场，身份验证和自己回答问题，如果不会英文，那么电话会接入 remote interpreter（翻译）
    1. 所有文件就位&验证之前，可能无法告知余额甚至有无受益人信息。其中：
       1. Fidelity 可以重新邮寄所有账户的余额信息
-      1. 各家商业银行（checking, saving, credit cards）可能先冻结账户40～45天（calendar day）不等，之后再统一处理
-         - 家属**无义务**偿还最后的信用卡账单
+      1. 各家商业银行（checking, saving, credit cards）可能先冻结其名下**所有**（大概率不包括joint 账户）关联账户40～45天（calendar day）不等，之后再统一处理
+         - 家属很可能**无义务**偿还最后的信用卡账单
    1. 人寿保险受益人：可能需要ssn 或者至少有一个税号（tax id），probate 律师只负责遗产账户的EID 申请，而不负责父母等tax id
 1. 执行人
    1. 代表亲属和律师签订合同
@@ -63,3 +70,18 @@
       - 执行人需要代替逝者进行最后收入等的报税
       - 遗产账户报税**不会**和执行人本人报税冲突
    1. 和亲属一起完成最后遗产移交等
+
+
+### 3.1 链接
+
+| Bank/ Broker     | Report death                      |电话|工作时间|备注|
+|------------------|-----------------------------------|----|--------|----|
+| American express | [https://www.americanexpress.com/us/help/deceased-cardmembers.html](https://www.americanexpress.com/us/help/deceased-cardmembers.html) | 800-266-7064 | 08:00-22:00 ET, M-F | |
+| Bank of america  | [https://www.bankofamerica.com/signature-services/estate-services](https://www.bankofamerica.com/signature-services/estate-services) | 888-689-4466 | 09:00–20:00 ET, M-F | 星期六可以去 branch |
+| Chase            | [https://www.chase.com/personal/estate-services](https://www.chase.com/personal/estate-services) | 866-926-6909 | 08:00-19:00 ET, M-F | |
+| Citi             | [https://online.citi.com/US/ag/estate-servicing-center](https://online.citi.com/US/ag/estate-servicing-center) | 833-956-0413 | 08:00-21:00 ET, M-F | |
+| Discover         | [https://www.discover.com/credit-cards/card-smarts/what-happens-credit-card-debt-die](https://www.discover.com/credit-cards/card-smarts/what-happens-credit-card-debt-die) | 800-347-5519 | ? | |
+| Fidelity         | [https://digital.fidelity.com/prgw/digital/journeys/loss/report-a-death](https://digital.fidelity.com/prgw/digital/journeys/loss/report-a-death) | | | 填表：需要逝者DOB & SSN |
+| Morgan stanley (E-Trade) | [https://us.etrade.com/knowledge/life-stage-planning/notifying-us-of-someones-death](https://us.etrade.com/knowledge/life-stage-planning/notifying-us-of-someones-death) | 888-402-0653 | 09:00-17:00 ET, M-F | etrade\_estates@morganstanley.com |
+| Robinhood        | [https://robinhood.com/us/en/support/articles/losing-loved-one](https://robinhood.com/us/en/support/articles/losing-loved-one) | | | 填表：提前准备好继承人官方证件，提交时需要拍照，同时上传死亡证明 |
+| Wells fargo      | [https://www.wellsfargo.com/help/estate-care-center](https://www.wellsfargo.com/help/estate-care-center) | 888-790-7980 | 08:00-20:30 ET, M-F | 800-869-3557 (24\*7) |

@@ -32,6 +32,8 @@
 | **Q**||
 | 去世             | Pass away                         |          |
 | **S**||
+| 社会安全号       | Social Security Number (SSN)      |          |
+| 社会安全局       | Social Security Administration (SSA)|        |
 | 失踪/ 失联       | Missing / Unreachable             | 可用于申请 welfare check |
 | 死亡证明         | Death Certificate                 | 由州政府出具，甚至可能有长短两版（一般就是A4纸大小），用于继承财产，银行销户等|
 | 丧假             | Bereavement leave                 |          |
