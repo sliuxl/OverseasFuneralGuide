@@ -10,3 +10,6 @@ just_the_docs:
   search_enabled: true
   aux_links:
     GitHub Repo: https://github.com/sliuxl/OverseasFuneralGuide
+
+plugins:
+  - jekyll-sitemap
