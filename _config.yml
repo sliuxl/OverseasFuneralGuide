@@ -11,5 +11,6 @@ just_the_docs:
   aux_links:
     GitHub Repo: https://github.com/sliuxl/OverseasFuneralGuide
 
+url: "https://sliuxl.github.io/OverseasFuneralGuide"
 plugins:
   - jekyll-sitemap
