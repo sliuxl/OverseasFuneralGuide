@@ -21,7 +21,7 @@
 
 ### 1.1 工作账户
 
-1. 一般公司股票账户（RSU）很可能**没有**（办法）设立受益人
+1. 公司股票账户（RSU）可能**没有**（办法）设立受益人
    1. 有的公司会把所有unvested RSU 全部 vest（accelerated vesting）
    1. 有的公司只会加速支付部分unvested RSU，其余部分销毁（forfeited）
 1. 一般设有受益人
@@ -33,8 +33,8 @@
 
 如果确定需要probate，那么至少需要两个相关人员：
 
-1. 律师
-   - 收费比例一般是固定的，比如加州第一个$100k收费4%，第二个$100k收费3%，然后$200k~$1M收费2%等
+1. 律师（以加州为例）：
+   - 收费比例一般是固定的，比如第一个$100k收费4%，第二个$100k收费3%，然后$200k~$1M收费2%等
    - 如果按照$1M 财产计算，那么收费为$23k
    - 加州probate律师搜索，可能**长时间未更新**：[https://apps.calbar.ca.gov/attorney/LicenseeSearch/QuickSearch](https://apps.calbar.ca.gov/attorney/LicenseeSearch/QuickSearch)
 1. 执行人 (executor)/ 管理人(administrator)：有时候也叫 personal representative，**不可以**由遗产认证律师兼任
@@ -63,7 +63,9 @@
       1. Fidelity 可以重新邮寄所有账户的余额信息
       1. 各家商业银行（checking, saving, credit cards）可能先冻结其名下**所有**（大概率不包括joint 账户）关联账户40～45天（calendar day）不等，之后再统一处理
          - 家属很可能**无义务**偿还最后的信用卡账单
-   1. 人寿保险受益人：可能需要ssn 或者至少有一个税号（tax id），probate 律师只负责遗产账户的EID 申请，而不负责父母等tax id
+   1. 人寿保险受益人
+      - 可能需要ssn 或者至少有一个税号（tax id），probate 律师只负责遗产账户的EID 申请，而不负责父母等tax id
+      - 部分情况下可以用W8代替
 1. 执行人
    1. 代表亲属和律师签订合同
    1. 在律师协助下成立遗产账户，接收逝者各种财产
@@ -72,7 +74,25 @@
    1. 和亲属一起完成最后遗产移交等
 
 
-### 3.1 链接
+### 3.1 准备问题
+
+每次打电话主要问几个问题，虽然有的不见得能直接透露：
+
+1. 在本银行/ broker 账户所属公司，一共有几个账户
+   - 其余问题针对每个账户
+1. 有没有受益人，有几个
+1. 受益人是谁
+1. 账户余额
+1. 是否必须经过probate 过程
+   - 有的会拒绝透露
+   - 有的在收到一些文件（死亡证明等）以后才可以透露
+1. 处理流程，以及大概需要多长时间
+1. 能否重新发一份最近的statement（含账户余额），有的遗产律师可能要求此类文件
+   - Fidelity 可以发送所有账户statements
+   - Robinhood 如果需要probate，就必须提交法院任命执行人文件才能拿到
+
+
+### 3.2 链接
 
 | Bank/ Broker     | Report death                      |电话|工作时间|备注|
 |------------------|-----------------------------------|----|--------|----|
@@ -83,5 +103,5 @@
 | Discover         | [https://www.discover.com/credit-cards/card-smarts/what-happens-credit-card-debt-die](https://www.discover.com/credit-cards/card-smarts/what-happens-credit-card-debt-die) | 800-347-5519 | ? | |
 | Fidelity         | [https://digital.fidelity.com/prgw/digital/journeys/loss/report-a-death](https://digital.fidelity.com/prgw/digital/journeys/loss/report-a-death) | | | 填表：需要逝者DOB & SSN |
 | Morgan stanley (E-Trade) | [https://us.etrade.com/knowledge/life-stage-planning/notifying-us-of-someones-death](https://us.etrade.com/knowledge/life-stage-planning/notifying-us-of-someones-death) | 888-402-0653 | 09:00-17:00 ET, M-F | etrade\_estates@morganstanley.com |
-| Robinhood        | [https://robinhood.com/us/en/support/articles/losing-loved-one](https://robinhood.com/us/en/support/articles/losing-loved-one) | | | 填表：提前准备好继承人官方证件，提交时需要拍照，同时上传死亡证明 |
+| Robinhood        | [https://robinhood.com/us/en/support/articles/losing-loved-one](https://robinhood.com/us/en/support/articles/losing-loved-one) | help@robinhood.com | | 填表：提前准备好继承人官方证件，提交时需要拍照，同时上传死亡证明 |
 | Wells fargo      | [https://www.wellsfargo.com/help/estate-care-center](https://www.wellsfargo.com/help/estate-care-center) | 888-790-7980 | 08:00-20:30 ET, M-F | 800-869-3557 (24\*7) |
