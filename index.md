@@ -23,4 +23,5 @@ This is a **practical** guide to assist family members, friends, alumni, etc nav
   - 最前面两个星期 (First 2 weeks)：集中精力办葬礼
 - [04: 遗产](docs/04-estate.md)
 - [Recovery 情绪整理与照顾自己](docs/recovery.md)
+- [-2: 相关链接](docs/98-links.md)
 - [-1: 中英词汇对照](docs/99-glossary.md)
