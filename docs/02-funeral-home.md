@@ -31,6 +31,8 @@
 
 **时间线**：法医报告一般一个月之内可以出来，80%（？）的情况三个月之内可以拿到报告，耗时比较长的甚至可能会达到一年。
 - 初步结论会显示在死亡证明上，release（可以运输到殡仪馆）/ 葬礼安排不需要等待完整报告
+- Case 是否已经close 可以公开查到，e.g. [Santa Clara public dataset](https://data.sccgov.org/Health/Medical-Examiner-Coroner-Full-dataset/s3fb-yrjp/data_preview)
+  - 如果已经显示closed，可以工作时间打电话要求尽快发送报告，否则这个时间差可以超过几个星期
 
 
 ## 2. 逝者服务
